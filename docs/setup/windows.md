@@ -17,6 +17,10 @@ MetaDescription: Get Visual Studio Code up and running on Windows
 
 Alternatively, you can also download a [Zip archive](/docs/?dv=winzip), extract it and run Code from there.
 
+Alternatively, install using [Windows Package Manager](https://docs.microsoft.com/en-us/windows/package-manager/)
+
+`winget install Microsoft.VisualStudioCode`
+
 >**Tip:** Setup will add Visual Studio Code to your `%PATH%`, so from the console you can type 'code .' to open VS Code on that folder. You will need to restart your console after the installation for the change to the `%PATH%` environmental variable to take effect.
 
 ## User setup versus system setup
